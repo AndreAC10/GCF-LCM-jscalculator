@@ -1,4 +1,4 @@
-# GCF-LCM-jscalculator
+# GCF-LCM-jscalculator | English
 JavaScript based GCF (Greatest Common Factor) and LCM (Least Common Multiple) calculator. 
 With Boostrap framework
 
