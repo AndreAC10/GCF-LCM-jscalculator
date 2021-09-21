@@ -6,7 +6,7 @@ Languages availables:
 🇮🇹 Italian
 🇬🇧 Engish
 
-To use this free generator, you just have to download the HTML file.
+To use this free generator, you just have to download the HTML file. <br>
 The generator works ONLINE and OFFLINE.
 
 © Copyrighted work, for PERSONAL USE ONLY.
